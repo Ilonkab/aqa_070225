@@ -1,5 +1,16 @@
-# aqa_070225
-hillel python automation learning repo
+QA Automation Projects in Python
 
-hello and again and again
-hello students! and again
+This repository contains automated testing projects created during QA automation training.
+
+Technologies:
+- Python
+- Selenium
+- pytest
+- Docker
+- Jenkins
+
+Includes:
+- UI tests
+- Page Object Model structure
+- database testing
+- CI pipeline examples
